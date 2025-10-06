@@ -1,0 +1,37 @@
+
+    header {
+        font-family: 'roboto', sans-serif;
+background-color: #1d3557
+    ;color: #d5dae6 ;
+    }
+body {
+    font-family: 'roboto', sans-serif;
+background-color: #f1faee
+    ;color: #1d3557;
+/* ===== table =====*/
+table {
+    width: 60px; 
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+th, td {
+    border: 1px solid #111010;  
+    padding: 10px;
+    text-align: center;
+}
+th {
+   background-color: #6b7380;
+
+}
+td: hover {
+background-color: #d5dae6 ; 
+}
+
+/* === footer ==*/
+footer { 
+    text-align: center;
+    padding: 10px;
+    color: #777;
+    font-size: 14px;
+}
+}
